@@ -5,11 +5,22 @@
 ## Education
 
 ### University of Cambridge, St Catharine's College (2018 - )
-* MSCi, Systems Biology (2021 - 2022)
-* BA (Hons), Natural Sciences (2018 - 2021)
-I am in my last year of my undergrduate degree, where I am reading Natural Sciences, specialising in Biochemistry. I plan to continue for Part III (one-year Master's) in Systems Biology. Find out more about the modules I have taken, what 'Systems Biology' means, and what the course may have in store for me.
+* MSci, Systems Biology (2021 - 2022) - find out more
 
-At Cambridge, I have been involved with the Scientific Society, with the Lawn Tennis Club, in various ensembles and orchestras, with the Synthetic Biology Society and with the Finance and Investment Society. Find out more about what I got up to.
+* BA (Hons), Natural Sciences (2018 - 2021). Specialised in Biochemistry in my 3rd year (Part II) - find out more 
+
+Societies/organisations/groups I have been involved with:
+* Cambridge University Scientific Society (former Co-President, former Director for Publicity)
+* Cambridge University Lawn Tennis Club (Secretary, former Captain of the Men's 2nd team)
+* The Pegasus Quartet (violist) - a student-run quartet playing classical arrangements of songs and soundtracks
+* Cambridge University Finance and Investment Society (former Healthcare Equities Analyst in the Cambridge Apex Fund)
+* Cambridge University Venture Capital and Private Equity Society (Marketing and Collaborations)
+* Cambridge Consulting Network (Consultant)
+* Cambridge University Synthetic Biology Society
+* Cambridge Univeristy Orchestra, with the Cambridge University Musical Society 
+* Cambridge University Symphony Orchestra
+
+Find out more about what I got up to.
 
 ### Winchester College (2013 - 2018)
 I came into Winchester College an academic scholar. This meant living in the medieval heart of the school, in College - the Scholars' 'house'. As a scholar, I was one of the lucky few to wear a gown - magnificent items of clothing that had pockets deep enough to fit books, water bottles and pencil cases, and that were the school's only stipulated piece of uniform. 
