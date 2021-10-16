@@ -10,22 +10,32 @@
 * BA (Hons), Natural Sciences (2018 - 2021). Specialised in Biochemistry in my 3rd year (Part II) - find out more 
 
 Societies/organisations/groups I have been involved with:
-* Cambridge University Scientific Society (former Co-President, former Director for Publicity)
-* Cambridge University Lawn Tennis Club (Secretary, former Captain of the Men's 2nd team)
-* The Pegasus Quartet (violist) - a student-run quartet playing classical arrangements of songs and soundtracks
-* Cambridge University Finance and Investment Society (former Healthcare Equities Analyst in the Cambridge Apex Fund)
-* Cambridge University Venture Capital and Private Equity Society (Marketing and Collaborations)
-* Cambridge Consulting Network (Consultant)
-* Cambridge University Synthetic Biology Society
-* Cambridge Univeristy Orchestra, with the Cambridge University Musical Society 
-* Cambridge University Symphony Orchestra
+* [Cambridge University Scientific Society](http://scisoc.com/) (former Co-President, former Director for Publicity)
+* [Cambridge University Lawn Tennis Club](https://cultc.soc.srcf.net/) (Secretary, former Captain of the Men's 2nd team)
+* [The Pegasus Quartet](https://www.christopherkzcheng.com/pegasus-strings) (violist) - a student-run quartet playing classical arrangements of songs and soundtracks
+* [Cambridge University Finance and Investment Society](https://www.cufis.co.uk/) (former Healthcare Equities Analyst in the Cambridge Apex Fund)
+* [Cambridge University Venture Capital and Private Equity Society](https://www.cuvcpe.com/) (Marketing and Collaborations - I led the construction of the website)
+* [Cambridge Consulting Network](https://www.cambridgeconsultingnetwork.co/cambridge) (Consultant)
+* [Cambridge University Synthetic Biology Society](http://cusbs.soc.srcf.net/) (involved with a couple of projects)
+* Cambridge Univeristy Orchestra, with the [Cambridge University Musical Society](https://cums.org.uk/) (violist - went on tour to Poland)
+* Cambridge University Symphony Orchestra (violist)
 
 Find out more about what I got up to.
 
 ### Winchester College (2013 - 2018)
-I came into Winchester College an academic scholar. This meant living in the medieval heart of the school, in College - the Scholars' 'house'. As a scholar, I was one of the lucky few to wear a gown - magnificent items of clothing that had pockets deep enough to fit books, water bottles and pencil cases, and that were the school's only stipulated piece of uniform. 
+* Academic scholar 
+* Honorary music exhibitioner 
+* 1st VI Lawn Tennis Captain (2018) - member from 2013 - 2018 
+* Deputy Head of Community Service (2018)
+ * Taught science at a local state school for 3 years
+* Various orchestras and ensembles
 
-During my time at Winchester, I was involved in tennis, music and community service. Find out about what I got up to. 
+* Pre-U subjects:
+ * Biology (D1)
+ * Chemistry (D1)
+ * Mathematics (D1)
+ * Further Mathematics (D1)
+ * Latin (D2)
 
 ### Colet Court - now St Paul's Juniors (2007 - 2013)
 
