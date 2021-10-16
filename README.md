@@ -29,7 +29,6 @@ Find out more about what I got up to.
 * Deputy Head of Community Service (2018)
  * Taught science at a local state school for 3 years
 * Various orchestras and ensembles
-
 * Pre-U subjects:
  * Biology (D1)
  * Chemistry (D1)
