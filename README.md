@@ -10,8 +10,8 @@
 * BA (Hons), Natural Sciences (2018 - 2021). Specialised in Biochemistry in my 3rd year (Part II) - find out more 
 
 Societies/organisations/groups I have been involved with:
+* [Cambridge University Lawn Tennis Club](https://cultc.soc.srcf.net/) (Blues (1st team) member, Secretary, former Captain of the Men's 2nd team)
 * [Cambridge University Scientific Society](http://scisoc.com/) (former Co-President, former Director for Publicity)
-* [Cambridge University Lawn Tennis Club](https://cultc.soc.srcf.net/) (Secretary, former Captain of the Men's 2nd team)
 * [The Pegasus Quartet](https://www.christopherkzcheng.com/pegasus-strings) (violist) - a student-run quartet playing classical arrangements of songs and soundtracks
 * [Cambridge University Finance and Investment Society](https://www.cufis.co.uk/) (former Healthcare Equities Analyst in the Cambridge Apex Fund)
 * [Cambridge University Venture Capital and Private Equity Society](https://www.cuvcpe.com/) (Marketing and Collaborations - I led the construction of the website)
