@@ -25,7 +25,7 @@ During my time at Winchester, I was involved in tennis, music and community serv
 * Molecular mechansims of signal transduction through GABAAR - _Lummis Lab, Deparment of Biochemistry, University of Cambridge_ 
 * Human lineage-specific regulation of novel open reading frames in schizophrenia and bipolar disorder - _Prabakran Group, Department of Genetics, University of Cambridge_ 
   * First-author on a manuscript including this work - currently in peer review at _**Molecular Psychiatry**_ 
-  * Code used is available [here](https://github.com/PrabakaranGroup/norfs_in_neuropsychiatric_disorders/tree/master/norf_har_te_association "Published repository on the Group's GitHub"). The link is available via [this empty repository of my own] (https://github.com/krishnaxamin/norfs_in_scz_bd "An empty repository with the link to the repository on the Group's GitHub"). 
+  * Code used is available [here](https://github.com/PrabakaranGroup/norfs_in_neuropsychiatric_disorders/tree/master/norf_har_te_association "Published repository on the Group's GitHub"). The link is available via [this empty repository of my own](https://github.com/krishnaxamin/norfs_in_scz_bd "An empty repository with the link to the repository on the Group's GitHub"). 
 
 
 I have done both purely computational and laboratory work. 
