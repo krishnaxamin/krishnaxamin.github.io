@@ -9,21 +9,10 @@
 
 * BA (Hons), Natural Sciences (2018 - 2021). Specialised in Biochemistry in my 3rd year (Part II) - find out more 
 
-I was involved with a few societies/organisations/groups - find out more
+I was involved with a few societies/organisations/groups - [find out more](https://krishnaxamin.github.io/uniofcambs-societies)
 
 ### Winchester College (2013 - 2018)
-Academic scholar and honorary music exhibitioner, and involved in tennis, music and community service - find out more (list to be moved)
-* Academic scholar 
-* Honorary music exhibitioner 
-* 1st VI Lawn Tennis Captain (2018) - member from 2013 - 2018 
-* Deputy Head of Community Service (2018) - taught science at a local state school for 3 years
-* Various orchestras and ensembles
-* Pre-U subjects:
-  * Biology (D1)
-  * Chemistry (D1)
-  * Mathematics (D1)
-  * Further Mathematics (D1)
-  * Latin (D2)
+Academic scholar and honorary music exhibitioner, and involved in tennis, music and community service - find out more
 
 ## Experience
 
