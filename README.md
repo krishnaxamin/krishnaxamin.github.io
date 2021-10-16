@@ -24,7 +24,7 @@ During my time at Winchester, I was involved in tennis, music and community serv
 * Enzyme-explicit modelling of histone methylation dyanmics - _Gunawardena Lab, Harvard Medical School_
 * Molecular mechansims of signal transduction through GABAAR - _Lummis Lab, Deparment of Biochemistry, University of Cambridge_ 
 * Human lineage-specific regulation of novel open reading frames in schizophrenia and bipolar disorder - _Prabakran Group, Department of Genetics, University of Cambridge_ 
-** First-author on a manuscript including this work - currently in peer review at _**Molecular Psychiatry**_ 
+  * First-author on a manuscript including this work - currently in peer review at _**Molecular Psychiatry**_ 
 I have done both purely computational and laboratory work. 
 
 Over the summer of 2020, I was fortunate enough to conduct my research remotely. I investigated genetic causes of schizophrenia and bipolar disorder in non-coding regions of the genome (stretches of DNA that are not thought to produce functional proteins) and questioned whether those causes were specific to the human evolutionary lineage. The analyses were performed using Python algorithms I wrote from scratch - one algorithm outperformed a published tool. The results are being written up into a manuscript for publication.
