@@ -7,11 +7,11 @@ Citizenship: British
 ## Education
 
 ### University of Cambridge, St Catharine's College (2018 - )
-* MSci, Systems Biology (2021 - 2022) - find out more
+* MSci, Systems Biology (2021 - 2022) - [find out more](https://krishnaxamin.github.io/uniofcambs/part3sysbio)
 
 * BA (Hons), Natural Sciences (2018 - 2021). Specialised in Biochemistry in my 3rd year (Part II) - find out more 
 
-I was involved with a few societies/organisations/groups - [find out more](https://krishnaxamin.github.io/uniofcambs-societies)
+I was involved with a few societies/organisations/groups - [find out more](https://krishnaxamin.github.io/uniofcambs/societies)
 
 ### Winchester College (2013 - 2018)
 Academic scholar and honorary music exhibitioner, and involved in tennis, music and community service - [find out more](https://krishnaxamin.github.io/wincoll)
