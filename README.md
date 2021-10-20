@@ -30,7 +30,7 @@ Academic scholar and honorary music exhibitioner, and involved in tennis, music 
   * Code was written for this internship, but may be unable to be shared 
 * Equities Analyst (Nov 2020 - Mar 2021) - _Healthcare Sector, Cambridge Apex Fund (student-run investment fund co-ordinated by the Cambridge University Finance and Investment Society)_ 
 * Data Analyst Intern (Dec 2019 - Jan 2020) - _[2RSquared](https://www.2rsq.com/) (fintech start-up in systematic asset management)_
-  * Code used during this internship can be found [here](https://github.com/krishnaxamin/repo_rate_web_scraping_cleaning)
+  * Code written for and used during this internship can be found [here](https://github.com/krishnaxamin/repo_rate_web_scraping_cleaning)
 
 ### Consulting
 * Consultant (Oct 2021 - ) - _[Cambridge Consulting Network](https://www.cambridgeconsultingnetwork.co/cambridge)_ 
