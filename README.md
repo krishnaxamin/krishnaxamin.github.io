@@ -26,7 +26,7 @@ Academic scholar and honorary music exhibitioner, and involved in tennis, music 
   * Code used is available [here](https://github.com/PrabakaranGroup/norfs_in_neuropsychiatric_disorders/tree/master/norf_har_te_association "Published repository on the Group's GitHub"). The link is available via [this empty repository of my own](https://github.com/krishnaxamin/norfs_in_scz_bd "An empty repository with the link to the repository on the Group's GitHub"). 
 
 ### Finance 
-* Algorithmic Trading Intern (Aug - Sep 2021) - _[HashKey Group (Hong Kong)](https://www.hashkey.com/) (digital asset management)_ 
+* Algorithmic Trading Intern (Aug - Sep 2021) - _[HashKey Group](https://www.hashkey.com/) (digital asset management)_ 
   * Code was written for this internship, but may be unable to be shared 
 * Equities Analyst (Nov 2020 - Mar 2021) - _Healthcare Sector, Cambridge Apex Fund (student-run investment fund co-ordinated by the Cambridge University Finance and Investment Society)_ 
 * Data Analyst Intern (Dec 2019 - Jan 2020) - _[2RSquared](https://www.2rsq.com/) (fintech start-up in systematic asset management)_
