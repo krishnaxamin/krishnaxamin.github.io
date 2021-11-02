@@ -24,7 +24,7 @@ Academic scholar and honorary music exhibitioner, and involved in tennis, music 
 * [Molecular mechansims of signal transduction through GABAAR](https://krishnaxamin.github.io/scientific_research/lummis_partII) (Nov 2020 - Jan 2021) - _[Lummis Lab](https://www.bioc.cam.ac.uk/research/lummis), Deparment of Biochemistry, University of Cambridge_
 * [Human lineage-specific regulation of novel open reading frames in schizophrenia and bipolar disorder](https://krishnaxamin.github.io/scientific_research/prabakaran_2020) (Jul - Aug 2020) - _Prabakaran Group, Department of Genetics, University of Cambridge_
   * First-author on a manuscript including this work - currently in peer review at _**Molecular Psychiatry**_ 
-  * Code used is available [here](https://github.com/PrabakaranGroup/norfs_in_neuropsychiatric_disorders/tree/master/norf_har_te_association "Published repository on the Group's GitHub"). The link is available via [this empty repository of my own](https://github.com/krishnaxamin/norfs_in_scz_bd "An empty repository with the link to the repository on the Group's GitHub"). 
+  * Code written and used is available [here](https://github.com/PrabakaranGroup/norfs_in_neuropsychiatric_disorders/tree/master/norf_har_te_association "Published repository on the Group's GitHub"). The link is available via [this empty repository of my own](https://github.com/krishnaxamin/norfs_in_scz_bd "An empty repository with the link to the repository on the Group's GitHub"). 
 
 ### Finance 
 * [Algorithmic Trading Intern](https://krishnaxamin.github.io/finance/hashkey_2021) (Aug - Sep 2021) - _[HashKey Group](https://www.hashkey.com/) (digital asset management)_ 
