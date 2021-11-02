@@ -90,6 +90,13 @@ Academic scholar and honorary music exhibitioner, and involved in tennis, music 
 ### LaTeX
 * 4.5-hour course run by CamTeX – the LaTeX-focussed student society 
 
+### Languages
+* English (native)
+* Mandarin (HSK2)
+* French (IGCSE A*)
+* Latin (Pre-U D2)
+* German (basic - self-taught through Duolingo)
+
 ## Interests
 
 ### Tennis
