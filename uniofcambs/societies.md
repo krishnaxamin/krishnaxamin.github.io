@@ -14,7 +14,7 @@ The Pegasus Quartet is a student-run quartet playing classical arrangements of s
 ## [Cambridge University Venture Capital and Private Equity Society](https://www.cuvcpe.com/)
 * Head of Marketing (2021 - ) - I led the construction of the website
 ## [Cambridge Consulting Network](https://www.cambridgeconsultingnetwork.co/cambridge)
-* Consultant on the flagship project with [Thiriving.ai](https://www.thriving.ai/) (Oct - Dec 2021)
+* Consultant on the flagship project with [Thriving.ai](https://www.thriving.ai/) (Oct - Dec 2021)
 ## [Cambridge University Synthetic Biology Society](http://cusbs.soc.srcf.net/)
 * Involved with a couple of projects - neither completed due to pandemic restrictions
   * Engineering of _E. coli_ to produce violacein, a naturally occuring pigment with antibiotic properties 
