@@ -34,7 +34,7 @@ Academic scholar and honorary music exhibitioner, and involved in tennis, music 
   * Code written for and used during this internship can be found [here](https://github.com/krishnaxamin/repo_rate_web_scraping_cleaning)
 
 ### Consulting
-* Consultant (Oct 2021 - ) - _[Cambridge Consulting Network](https://www.cambridgeconsultingnetwork.co/cambridge)_ 
+* Consultant (Oct 2021 - ) - _[Cambridge Consulting Network](https://www.cambridgeconsultingnetwork.co/cambridge): Flagship project with [Thriving.ai](https://www.thriving.ai/)_ 
 
 ### Teaching
 * Tutor (volunatry work) (Feb - Mar 2019) - _IB Chemistry at Parkside Community College, Cambridge, as part of STIMULUS Cambridge_
