@@ -1,7 +1,7 @@
 # Krishna X. Amin
-Citizenship: British
+**Citizenship:** British
 
-Outline:
+**Outline:**
 * Education
 * Experience
   * Scientific Research
