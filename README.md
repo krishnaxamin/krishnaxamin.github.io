@@ -7,7 +7,7 @@ Citizenship: British
 ## Education
 
 ### University of Cambridge, St Catharine's College (2018 - )
-* MSci, Systems Biology (2021 - 2022) - [find out more](https://krishnaxamin.github.io/uniofcambs/part3sysbio)
+* [MSci, Systems Biology](https://www.sysbiol.cam.ac.uk/Part%20III) (2021 - 2022) - [find out more](https://krishnaxamin.github.io/uniofcambs/part3sysbio)
 
 * BA (Hons), Natural Sciences (2018 - 2021). Specialised in Biochemistry in my 3rd year (Part II) - [find out more](https://krishnaxamin.github.io/uniofcambs/ba-natsci) 
 
