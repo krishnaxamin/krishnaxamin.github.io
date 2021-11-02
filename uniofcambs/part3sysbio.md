@@ -1,3 +1,5 @@
+# Part III (MSci) Systems Biology
+
 ## What is Systems Biology?
 A difficult question to answer, in my opinion. The main idea of Systems Biology (SysBio) is in the name - considering the whole system, not just its constituent parts, since the system is greater than the sum of its parts. An example of this thinking is to examine not just how one protein regulates the expression of a gene, but instead study how all the proteins in the cell regulate the expression of all the genes in the cell. At the same time, however, SysBio recognises that to understand the system, it is helpful to understand the component parts in a measureable and quantitative way, so a part of SysBio looks at the quantitative modelling of processes fundamental to biological systems.
 
@@ -10,5 +12,9 @@ Finally, SysBio is inherently disciplinary. We recruit chemistry and physics to 
 For sure, there are some things that will be disputed in what I have said above, and some things I have missed. But that is my current opinion on what SysBio is. 
 
 ## My interest in Systems Biology
+I had come to Cambridge hoping to study both computer science and cell biology, but scheduling conflicts between the courses prevented this. As an alternative, I developed my coding skills beyond what I had self-learnt in high school by sourcing and cleaning unstructured data with a fintech start-up. Although I had interest in both computation and cell biology, it was only through a practical on modelling metabolism in my second year at Cambridge that I started to understand how computing approaches could be used to understand cell biology processes. I became interested particularly in the flow and integration of information along cellular networks. 
+
+Now, using systems-based and data-driven approaches, I am interested in understanding how intracellular and intercellular networks receive, process and integrate information from internal or external signals, and how these networks get hacked in cancer. I am particularly interested in how inherited factors that increase the likelihood of cancer, particularly pancreatic cancer, perturb cellular networks to prime them for disease, and how therapies, both conventional and alternative, can pre-empt and combat disease development. 
 
 ## The Cambridge Part III in Systems Biology
+[Link to the course page.] (https://www.sysbiol.cam.ac.uk/Part%20III)
