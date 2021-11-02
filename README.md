@@ -19,7 +19,7 @@ Academic scholar and honorary music exhibitioner, and involved in tennis, music 
 ## Experience
 
 ### Scientific Research
-* Off-target toxic effects of drugs on _happyhour_ (Nov 2021 - ) - _[L.M. Martins Programmme](https://www.mrc-tox.cam.ac.uk/research/l-m-martins-programme), MRC Toxicology Unit_
+* Off-target toxic effects of drugs on _happyhour_ (Nov 2021 - ) - _[L.M. Martins Programmme](https://www.mrc-tox.cam.ac.uk/research/l-m-martins-programme), MRC Toxicology Unit_. [Find out more](https://krishnaxamin.github.io/scientific_research/martins_partIII)
 * Enzyme-explicit modelling of histone methylation dyanmics (Jun - Sep 2021) - _[Gunawardena Lab](https://vcp.med.harvard.edu/), Department of Systems Biology, Harvard Medical School_. [Find out more.](https://krishnaxamin.github.io/scientific_research/gunawardena_2021).
 * Molecular mechansims of signal transduction through GABAAR (Nov 2020 - Jan 2021) - _[Lummis Lab](https://www.bioc.cam.ac.uk/research/lummis), Deparment of Biochemistry, University of Cambridge_. [Find out more](https://krishnaxamin.github.io/scientific_research/lummis_partII).
 * Human lineage-specific regulation of novel open reading frames in schizophrenia and bipolar disorder (Jul - Aug 2020) - _Prabakaran Group, Department of Genetics, University of Cambridge_. [Find out more](https://krishnaxamin.github.io/scientific_research/prabakaran_2020).
