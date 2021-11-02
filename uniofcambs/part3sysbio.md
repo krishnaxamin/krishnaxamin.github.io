@@ -17,4 +17,4 @@ I had come to Cambridge hoping to study both computer science and cell biology, 
 Now, using systems-based and data-driven approaches, I am interested in understanding how intracellular and intercellular networks receive, process and integrate information from internal or external signals, and how these networks get hacked in cancer. I am particularly interested in how inherited factors that increase the likelihood of cancer, particularly pancreatic cancer, perturb cellular networks to prime them for disease, and how therapies, both conventional and alternative, can pre-empt and combat disease development. 
 
 ## The Cambridge Part III in Systems Biology
-[Link to the course page.] (https://www.sysbiol.cam.ac.uk/Part%20III)
+[Link to the course page.](https://www.sysbiol.cam.ac.uk/Part%20III)
