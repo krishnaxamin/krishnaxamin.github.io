@@ -1,8 +1,19 @@
 # Krishna X. Amin
-
-## About me
 Citizenship: British
-### Skills
+
+Outline:
+* Education
+* Experience
+  * Scientific Research
+  * Finance
+  * Consulting
+  * Teaching
+  * University/School Positions
+* Skills
+  * Computing and coding
+  * Languages 
+* Interests
+* Other things
 
 ## Education
 
@@ -50,6 +61,34 @@ Academic scholar and honorary music exhibitioner, and involved in tennis, music 
 * Captain (2019 - 2020) - _St Catharine's College Lawn Tennis Club_ 
 * Captain of 1st VI - _Winchester College Lawn Tennis_
 * Deputy Head - _Winchester College Community Service_
+
+## Skills
+### Python
+* Data processing with pandas
+* Plotting with Matplotlib and Plotly
+* SciPy and NumPy
+* _De novo_ feedforward neural network construction, having read ['Neural Networks and Deep Learning'](http://neuralnetworksanddeeplearning.com/index.html), by Michael Nielsen
+* Web scraping with Selenium
+
+### R 
+* Plotting with ggplot2
+* Differential expression analysis with edgeR
+* Data processing with various tidyverse packages
+
+### Command line
+* SNP clumping and linkage disequilibrium analysis with PLINK
+* SNP enrichment analysis with INRICH
+
+### MATLAB
+* Plotting, ODE solving and function creation
+* Courses in Master's and first-year undergraduate
+
+### HTML/CSS
+* Used to work on websites for two student societies
+* Self-taught
+
+### LaTeX
+* 4.5-hour course run by CamTeX – the LaTeX-focussed student society 
 
 ## Interests
 
