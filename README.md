@@ -38,7 +38,7 @@ Academic scholar and honorary music exhibitioner, and involved in tennis, music 
 
 ### Teaching
 * Tutor (volunatry work) (Feb - Mar 2019) - _IB Chemistry at Parkside Community College, Cambridge, as part of STIMULUS Cambridge_
-* Teacher (volunary work) (Sep 2015 - Mar 2018) - _Sparsholt Primary School, as part of Winchester College's Community Service_ 
+* Teacher (voluntary work) (Sep 2015 - Mar 2018) - _Sparsholt Primary School, as part of Winchester College's Community Service_ 
 * Private tutor (Dec 2018 - ) - _11+/13+ in Maths, English, Science, Geography, Latin. University entry_
 
 ### University/School Positions
