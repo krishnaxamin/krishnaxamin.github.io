@@ -54,7 +54,7 @@ Academic scholar and honorary music exhibitioner, and involved in tennis, music 
 ## Interests
 
 ### Tennis
-* Held an international ranking - ITF Juniors 1693 (2018)
+* Held an international ranking - [ITF Juniors 1693 (2018)](https://www.itftennis.com/en/players/krishna-amin/800532113/gbr/jt/s/overview/)
 * LTA Rating of 4.2 (obtained in 2016)
 * Member of the Cambridge University Lawn Tennis Club Men's 1sts (Blues) (2021 - )
 * Captain of the Cambridge University Lawn Tennis Club Men's 2nds (Grasshoppers) (2020 - 2021)
