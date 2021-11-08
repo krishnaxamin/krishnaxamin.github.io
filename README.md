@@ -30,7 +30,7 @@ Academic scholar and honorary music exhibitioner, and involved in tennis, music 
 ## Experience
 
 ### Scientific Research
-* [Off-target toxic effects of drugs on _happyhour_](https://krishnaxamin.github.io/scientific_research/martins_partIII) (Nov 2021 - ) - _[L.M. Martins Programmme](https://www.mrc-tox.cam.ac.uk/research/l-m-martins-programme), MRC Toxicology Unit_
+* [Off-target toxic effects of drugs on _happyhour_](https://krishnaxamin.github.io/scientific_research/martins_partIII) (Nov 2021 - ) - _[Mitochodria and Cell Death Regulation Group](https://www.mrc-tox.cam.ac.uk/research/l-m-martins-programme), MRC Toxicology Unit_
 * [Enzyme-explicit modelling of histone methylation dyanmics](https://krishnaxamin.github.io/scientific_research/gunawardena_2021) (Jun - Sep 2021) - _[Gunawardena Lab](https://vcp.med.harvard.edu/), Department of Systems Biology, Harvard Medical School_
 * [Molecular mechansims of signal transduction through GABAAR](https://krishnaxamin.github.io/scientific_research/lummis_partII) (Nov 2020 - Jan 2021) - _[Lummis Lab](https://www.bioc.cam.ac.uk/research/lummis), Deparment of Biochemistry, University of Cambridge_
 * [Human lineage-specific regulation of novel open reading frames in schizophrenia and bipolar disorder](https://krishnaxamin.github.io/scientific_research/prabakaran_2020) (Jul - Aug 2020) - _Prabakaran Group, Department of Genetics, University of Cambridge_
@@ -66,8 +66,11 @@ Academic scholar and honorary music exhibitioner, and involved in tennis, music 
 ### Python
 * Data processing with pandas
 * Plotting with Matplotlib and Plotly
-* SciPy and NumPy
+* NumPy
+* Regression with random forests using scikit-learn
+* Interfacing with ENCODE and ChEMBL
 * _De novo_ feedforward neural network construction, having read ['Neural Networks and Deep Learning'](http://neuralnetworksanddeeplearning.com/index.html), by Michael Nielsen
+* Lipinski descriptors with RDKit 
 * Web scraping with Selenium
 
 ### R 
@@ -78,6 +81,7 @@ Academic scholar and honorary music exhibitioner, and involved in tennis, music 
 ### Command line
 * SNP clumping and linkage disequilibrium analysis with PLINK
 * SNP enrichment analysis with INRICH
+* Sourcing PubChem fingerprints with PaDEL-Descriptor
 
 ### MATLAB
 * Plotting, ODE solving and function creation
