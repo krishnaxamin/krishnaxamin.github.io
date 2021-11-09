@@ -1,6 +1,10 @@
 # Krishna X. Amin
 **Citizenship:** British
 
+**Contact details:** 
+* Personal email: krishnaxamin@gmail.com
+* Institutional email: kxa20@cam.ac.uk
+
 **Page outline:**
 * Education
 * Experience
