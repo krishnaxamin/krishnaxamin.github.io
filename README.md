@@ -107,7 +107,7 @@ Academic scholar and honorary music exhibitioner, and involved in tennis, music 
 * German (basic - self-taught through Duolingo)
 
 ## Publications
-Erady, C.^, Amin, K.^, Onilogbo, T.O., Tomasik, J., Jukes-Jones, R., Umrania, Y., Bahn, S. and Prabakaran, S., 2021. Novel open reading frames in human accelerated regions and transposable elements reveal new leads to understand schizophrenia and bipolar disorder. Molecular psychiatry, pp.1-14. DOI: [10.1038/s41380-021-01405-6](https://doi.org/10.1038/s41380-021-01405-6). ^ = these authors contributed equally. Brief summary [here](https://krishnaxamin.github.io/publications).
+Erady C, Amin K, Onilogbo TOAE, Tomasik J, Jukes-Jones R, Umrania Y, Bahn S, Prabakaran S. Novel open reading frames in human accelerated regions and transposable elements reveal new leads to understand schizophrenia and bipolar disorder. Mol Psychiatry. 2021 Dec 23. doi: [10.1038/s41380-021-01405-6](https://doi.org/10.1038/s41380-021-01405-6). Epub ahead of print. PMID: 34937870. ^ = these authors contributed equally. Brief summary [here](https://krishnaxamin.github.io/publications).
 
 ## Interests
 
