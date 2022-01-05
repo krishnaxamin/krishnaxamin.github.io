@@ -9,7 +9,7 @@ We also show that nORF-encoded proteins can form structures. Overall, this work 
 
 This is my first publication, and I am equal first author.
 
-### News Coverage
+### Media Coverage
 * [The Research section of the University of Cambridge website](https://www.cam.ac.uk/research/news/clues-to-treatment-of-schizophrenia-and-bipolar-disorder-found)
 * [The Times](https://www.thetimes.co.uk/article/dark-genome-may-hold-key-treating-bipolar-disorder-s9zpzvvqc)
 * [Genetic Engineering and Biotechnology News](https://www.genengnews.com/topics/translational-medicine/dark-genome-may-hint-at-new-bipolar-and-schizophrenia-therapies/?fbclid=IwAR2-SZZ_OK3wASTana5odlOpmBGzsdtPsTRI-rqtqV-QH822MZxwc5DaZhc)
