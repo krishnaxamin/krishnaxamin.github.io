@@ -15,7 +15,7 @@
 * Skills
   * Computing and coding
   * Languages 
-* Publications
+* Publications and conferences
 * Interests
 * Other things
 
@@ -109,8 +109,10 @@ Academic scholar and honorary music exhibitioner, and involved in tennis, music 
 * Latin (Pre-U D2)
 * German (basic - self-taught through Duolingo)
 
-## Publications
-Erady C^, Amin K^, Onilogbo TOAE, Tomasik J, Jukes-Jones R, Umrania Y, Bahn S, Prabakaran S. Novel open reading frames in human accelerated regions and transposable elements reveal new leads to understand schizophrenia and bipolar disorder. Mol Psychiatry. 2021 Dec 23. doi: [10.1038/s41380-021-01405-6](https://doi.org/10.1038/s41380-021-01405-6). Epub ahead of print. PMID: 34937870. ^ = these authors contributed equally. Brief summary [here](https://krishnaxamin.github.io/publications). We have been mentioned in the media - find a list of who covered us [here](https://krishnaxamin.github.io/publications).
+## Publications and conferences
+[International Symposium on Genetic Instability and Impact of Genetic Variants on 9 July 2024 at Queen Mary University of London](http://www.draviamlab.uk/london_workshop_2024_July.html): poster presentation and flash talk. [My page on the conference](https://krishnaxamin.github.io/conferences/intl_smp_genetic_instability_impact_genetic_variants_jul2024) details the references for my poster.
+
+Erady C^, **Amin K^**, Onilogbo TOAE, Tomasik J, Jukes-Jones R, Umrania Y, Bahn S, Prabakaran S. Novel open reading frames in human accelerated regions and transposable elements reveal new leads to understand schizophrenia and bipolar disorder. Mol Psychiatry. 2021 Dec 23. doi: [10.1038/s41380-021-01405-6](https://doi.org/10.1038/s41380-021-01405-6). Epub ahead of print. PMID: 34937870. ^ = these authors contributed equally. Brief summary [here](https://krishnaxamin.github.io/publications). We have been mentioned in the media - some outlets who covered us are listed [here](https://krishnaxamin.github.io/publications).
 
 ## Interests
 
