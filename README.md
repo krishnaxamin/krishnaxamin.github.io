@@ -2,8 +2,7 @@
 **Citizenship:** British
 
 **Contact details:** 
-* Personal email: krishnaxamin@gmail.com
-* Institutional email: kxa20@cam.ac.uk
+* Institutional email: krishna.amin@qmul.ac.uk
 
 **Page outline:**
 * Education
@@ -22,7 +21,10 @@
 
 ## Education
 
-### University of Cambridge, St Catharine's College (2018 - )
+### Queen Mary University of London (2022 - )
+* PhD, AI for Drug Discovery CTP (2022 - )
+
+### University of Cambridge, St Catharine's College (2018 - 2022)
 * [MSci, Systems Biology](https://krishnaxamin.github.io/uniofcambs/part3sysbio) (2021 - 2022)
 
 * [BA (Hons), Natural Sciences](https://krishnaxamin.github.io/uniofcambs/ba-natsci) (2018 - 2021). Specialised in Biochemistry in my 3rd year (Part II)
@@ -39,7 +41,7 @@ Academic scholar and honorary music exhibitioner, and involved in tennis, music 
 * [Enzyme-explicit modelling of histone methylation dyanmics](https://krishnaxamin.github.io/scientific_research/gunawardena_2021) (Jun - Sep 2021) - _[Gunawardena Lab](https://vcp.med.harvard.edu/), Department of Systems Biology, Harvard Medical School_
 * [Molecular mechansims of signal transduction through GABAAR](https://krishnaxamin.github.io/scientific_research/lummis_partII) (Nov 2020 - Jan 2021) - _[Lummis Lab](https://www.bioc.cam.ac.uk/research/lummis), Deparment of Biochemistry, University of Cambridge_
 * [Human lineage-specific regulation of novel open reading frames in schizophrenia and bipolar disorder](https://krishnaxamin.github.io/scientific_research/prabakaran_2020) (Jul - Aug 2020) - _Prabakaran Group, Department of Genetics, University of Cambridge_
-  * First-author on a manuscript including this work - currently in peer review at _**Molecular Psychiatry**_ 
+  * First-author on a [manuscript including this work](https://www.nature.com/articles/s41380-021-01405-6)
   * Code written and used is available [here](https://github.com/PrabakaranGroup/norfs_in_neuropsychiatric_disorders/tree/master/norf_har_te_association "Published repository on the Group's GitHub"). The link is available via [this empty repository of my own](https://github.com/krishnaxamin/norfs_in_scz_bd "An empty repository with the link to the repository on the Group's GitHub"). 
 
 ### Finance 
@@ -50,10 +52,11 @@ Academic scholar and honorary music exhibitioner, and involved in tennis, music 
   * Code written for and used during this internship can be found [here](https://github.com/krishnaxamin/repo_rate_web_scraping_cleaning)
 
 ### Consulting
-* Consultant (Oct 2021 - ) - _[Cambridge Consulting Network](https://www.cambridgeconsultingnetwork.co/cambridge): Flagship project with [Thriving.ai](https://www.thriving.ai/)_ 
+* Consultant (Apr 2024 - Jul 2024) - _[Cambridge Consulting Network](https://www.cambridgeconsultingnetwork.co/cambridge): fundraising strategy for pre-IND biopharma startup_
+* Consultant (Oct 2021 - Dec 2021) - _[Cambridge Consulting Network](https://www.cambridgeconsultingnetwork.co/cambridge): Flagship project with [Thriving.ai](https://www.thriving.ai/)_ 
 
 ### Teaching
-* Tutor (volunatry work) (Feb - Mar 2019) - _IB Chemistry at Parkside Community College, Cambridge, as part of STIMULUS Cambridge_
+* Tutor (voluntary work) (Feb - Mar 2019) - _IB Chemistry at Parkside Community College, Cambridge, as part of STIMULUS Cambridge_
 * Teacher (voluntary work) (Sep 2015 - Mar 2018) - _Sparsholt Primary School, as part of Winchester College's Community Service_ 
 * Private tutor (Dec 2018 - ) - _11+/13+ in Maths, English, Science, Geography, Latin. University entry_
 
@@ -112,13 +115,14 @@ Erady C^, Amin K^, Onilogbo TOAE, Tomasik J, Jukes-Jones R, Umrania Y, Bahn S, P
 ## Interests
 
 ### Tennis
-* Held an international ranking - [ITF Juniors 1693 (2018)](https://www.itftennis.com/en/players/krishna-amin/800532113/gbr/jt/s/overview/)
-* LTA Rating of 4.2 (obtained in 2016)
-* Member of the Cambridge University Lawn Tennis Club Men's 1sts (Blues) (2021 - )
+* Member of the Queen Mary Tennis Club Men's 1sts (2022 - )
+* Member of the Cambridge University Lawn Tennis Club Men's 1sts (Blues) (2021 - 2022)
 * Captain of the Cambridge University Lawn Tennis Club Men's 2nds (Grasshoppers) (2020 - 2021)
 * Member of Cambridge University Lawn Tennis Club Men's 2nds (Grasshoppers) (2018 - 2021)
 * Captain of Winchester College 1st VI (2017 - 2018)
 * Member of Winchester College 1st VI (2013 - 2018)
+* Held an international ranking - [ITF Juniors 1693 (2018)](https://www.itftennis.com/en/players/krishna-amin/800532113/gbr/jt/s/overview/)
+* LTA Rating of 4.2 (obtained in 2016)
 
 ### Piano
 * Grade 8 Distinction
