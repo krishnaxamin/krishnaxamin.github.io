@@ -1,6 +1,8 @@
 # Krishna X. Amin
 
-PhD Researcher investigating common mechanisms behind age-related diseases @ Queen Mary University of London and Recursion, on the [AI for Drug Discovery CTP](https://www.qmul.ac.uk/deri/ukri-aidd-doctoral-training-programme/). You can find my latest poster presentation [here](https://krishnaxamin.github.io/conferences/ardd2025). 
+PhD Researcher investigating common mechanisms behind age-related diseases @ Queen Mary University of London and [Recursion](https://www.recursion.com/), on the [AI for Drug Discovery CTP](https://www.qmul.ac.uk/deri/ukri-aidd-doctoral-training-programme/). You can find my latest poster presentation [here](https://krishnaxamin.github.io/conferences/ardd2025). 
+
+Currently interning @ Recursion, on a production-level software deployment in their Nominations team.
 
 Previously [Systems Biology MSci @ Cambridge](https://krishnaxamin.github.io/uniofcambs/part3sysbio), and [Natural Sciences (Biochemistry) BA @ Cambridge](https://krishnaxamin.github.io/uniofcambs/ba-natsci).
 
